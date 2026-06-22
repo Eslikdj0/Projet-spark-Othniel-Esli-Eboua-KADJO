@@ -1,0 +1,19 @@
+.DS_Store
+*.swp
+*.swo
+.env
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+# Donnees open data telechargees (volumineuses, ne pas committer)
+data/datasets/
+# Sorties Spark generees par les TP et le projet
+spark-warehouse/
+metastore_db/
+derby.log
+output/
+*.crc
+_SUCCESS
