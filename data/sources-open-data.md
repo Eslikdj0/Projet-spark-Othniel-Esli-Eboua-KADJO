@@ -78,7 +78,7 @@ Tous les accidents corporels déclarés en France, un jeu par année, réparti e
 relationnels. Parfait pour enseigner les jointures multi-tables.
 
 - Page data.gouv.fr : https://www.data.gouv.fr/datasets/bases-de-donnees-annuelles-des-accidents-corporels-de-la-circulation-routiere-annees-de-2005-a-2023/ (Vérifié le 2026-06-21)
-- Page open data ONISR : https://www.onisr.securite-routiere.gouv.fr/en/data-tools/open-data (Vérifié le 2026-06-21)
+- Page open data ONISR : https://www.onsir.securite-routiere.gouv.fr/en/data-tools/open-data (Vérifié le 2026-06-21)
 - Quatre fichiers CSV par année : `caracteristiques`, `lieux`, `vehicules`, `usagers`
 - Format : CSV, séparateur point-virgule, encodage à vérifier (souvent latin1 sur les années anciennes)
 - Volume : environ 55 000 à 60 000 accidents par an, plusieurs centaines de milliers de lignes cumulées
